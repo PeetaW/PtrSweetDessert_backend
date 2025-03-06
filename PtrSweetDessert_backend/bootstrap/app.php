@@ -3,6 +3,8 @@
 use Illuminate\Foundation\Application;
 use Illuminate\Foundation\Configuration\Exceptions;
 use Illuminate\Foundation\Configuration\Middleware;
+use Laravel\Sanctum\Http\Middleware\EnsureFrontendRequestsAreStateful;
+use Illuminate\Http\Middleware\HandleCors;
 
 return Application::configure(basePath: dirname(__DIR__))
     ->withRouting(
@@ -11,7 +13,11 @@ return Application::configure(basePath: dirname(__DIR__))
         health: '/up',
     )
     ->withMiddleware(function (Middleware $middleware) {
-        //
+        // 啟用sanctum，確保前端請求為狀態化
+        $middleware->append(EnsureFrontendRequestsAreStateful::class);
+        // 啟用CORS，因為是前後端分離，跨域請求的保護措施
+        $middleware->append(HandleCors::class);
+        
     })
     ->withExceptions(function (Exceptions $exceptions) {
         //
