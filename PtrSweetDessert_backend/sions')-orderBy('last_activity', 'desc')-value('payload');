@@ -1,0 +1,29 @@
+[90m= [39m[34;4mIlluminate\Support\Collection[39;24m {#5221
+    [34mall[39m: [
+      {#5219
+        +"[1mid[22m": "[32mjvOvAXdEy4eACNErfSjtIYYRod9PIZrEXFlMOJHR[39m",
+        +"[1muser_id[22m": [36mnull[39m,
+        +"[1mip_address[22m": "[32m172.18.0.1[39m",
+        +"[1muser_agent[22m": "[32mMozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36[39m",
+        +"[1mpayload[22m": "[32mYTozOntzOjY6Il90b2tlbiI7czo0MDoiVTlvZHZlVVk3NDZnMk9hTlBHTHkzeW1zQlhGYjRnWUI4eldZT3ZzMiI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzY6Imh0dHA6Ly9sb2NhbGhvc3Qvc2FuY3R1bS9jc3JmLWNvb2tpZSI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=[39m",
+        +"[1mlast_activity[22m": [35m1742478539[39m,
+      },
+      {#5217
+        +"[1mid[22m": "[32mk8GI2q3M11gSDeVHEsIkJb7hUf4yCfSl5l5feEih[39m",
+        +"[1muser_id[22m": [36mnull[39m,
+        +"[1mip_address[22m": "[32m172.18.0.1[39m",
+        +"[1muser_agent[22m": "[32mMozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36[39m",
+        +"[1mpayload[22m": "[32mYToyOntzOjY6Il90b2tlbiI7czo0MDoiMVBGbjZjbUc0bUJOUHhudFJsOVFFRm9SRmR2QldzMUhzeDR3RTl0TSI7czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==[39m",
+        +"[1mlast_activity[22m": [35m1742478969[39m,
+      },
+      {#5215
+        +"[1mid[22m": "[32mraPQblPKuFLXoZjLQ6zkDxYToHciupn6C8w1JObr[39m",
+        +"[1muser_id[22m": [36mnull[39m,
+        +"[1mip_address[22m": "[32m172.18.0.1[39m",
+        +"[1muser_agent[22m": "[32mMozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36[39m",
+        +"[1mpayload[22m": "[32mYTozOntzOjY6Il90b2tlbiI7czo0MDoiYm53ZTJrOVRWYkJZSlVXcGl2RmpmbFh6blFVRUNmallpdHRmNW5WayI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzY6Imh0dHA6Ly9sb2NhbGhvc3Qvc2FuY3R1bS9jc3JmLWNvb2tpZSI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=[39m",
+        +"[1mlast_activity[22m": [35m1742478381[39m,
+      },
+    ],
+  }
+

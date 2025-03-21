@@ -1,0 +1,5 @@
+services:
+  laravel.test:
+    environment:
+      - TZ=Asia/Taipei
+      - PHP_TIMEZONE=Asia/Taipei

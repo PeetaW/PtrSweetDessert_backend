@@ -214,4 +214,6 @@ return [
 
     'partitioned' => env('SESSION_PARTITIONED_COOKIE', false),
 
+    'timezone' => env('APP_TIMEZONE', 'Asia/Taipei'),
+
 ];
