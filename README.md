@@ -1,2 +1,2 @@
 # PtrSweetDessert_backend
- Laravel 11 + MySQL
+ Laravel 12 + MySQL
